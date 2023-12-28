@@ -1,4 +1,3 @@
-
 FROM python:3.11.0-slim-buster
 
 RUN apt update && apt upgrade -y
